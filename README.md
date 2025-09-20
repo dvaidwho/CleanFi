@@ -12,6 +12,6 @@ Upload a CSV file and instantly see categorized transactions, progress metrics, 
 
 ## Installation
 ```bash
-git clone https://github.com/dvaidwho/Discord-Bot.git
+git clone https://github.com/dvaidwho/CleanFi.git
 cd CleanFi
 pip install -r requirements.txt
